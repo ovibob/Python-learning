@@ -17,3 +17,9 @@ The Caesar cipher is an ancient encryption algorithm used by Julius Caesar. It e
 
 ### Cho - Han
 Cho-han is a dice game played in gambling houses of feudal Japan. Two six-sided dice are rolled in a cup, and gamblers must guess if the sum is even (cho) or odd (han). The house takes a small cut of all winnings. The simple random number generation and basic math used to determine odd or even sums makes this project suitable for beginers like me.  
+
+### Collatz sequence
+The Collatz sequence, also called the 3n + 1 problem, is the simplest impossible math problem. From a starting number, n, follow three rules to get the next number in the sequence:
+    If n is even, the next number n is n / 2.
+    If n is odd, the next number n is n * 3 + 1.
+    If n is 1, stop. Otherwise, repeat.
